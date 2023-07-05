@@ -1,5 +1,5 @@
 {
-  "name": "projetofinal2",
+  "name": "projetofinal-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Eduardo Misina",
+  "author": "Felipe de Paulo Rodrigues",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
